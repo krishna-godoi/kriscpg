@@ -335,7 +335,7 @@
 				"string.template"
 			],
 			"settings": {
-				"foreground": "#f1e3b4e6"
+				"foreground": "#ffedb1e6"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"name": "Provided (support) values",
 			"scope": "support",
 			"settings": {
-				"foreground": "#E9C9A7E6"
+				"foreground": "#ff5f94"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 			"name": "Tag brackets",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#ced0d8e6",
+				"foreground": "#BBBBBB",
 				"fontStyle": ""
 			}
 		},
