@@ -3,7 +3,7 @@
   "publisher": "krishna-godoi",
   "displayName": "kriscpg",
   "description": "Modified version of the Celestial theme, with a bit brighter colors making it better for better low brightness readability",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.76.0"
   },
